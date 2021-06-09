@@ -1,0 +1,10 @@
+#name, #age{
+  margin-top: 1pc;
+}
+#img{
+  position: relative;
+  left: 3pc;
+}
+#titulo{
+  text-align: center;
+}
